@@ -1,0 +1,18 @@
+.subtitle {
+    font-weight: lighter;
+}
+
+.card {
+    padding: 1rem 1.2rem;
+    display: flex;
+    justify-content: space-between;
+}
+  
+  
+.card span {
+    display: inline-block;
+}
+
+.profileImage{
+    border-radius: 20px;
+}
